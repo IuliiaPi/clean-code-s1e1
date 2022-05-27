@@ -49,11 +49,13 @@ body {
     padding: 0px;
 }
 
-.list__item, .title {
+.list__item, 
+.title {
     list-style: none;
 }
 
-.input, .btn{
+.input, 
+.btn{
     outline: none;
 }
 
@@ -136,7 +138,7 @@ body {
     width: 226px;
 }
 
-.list__item >    .input[type="text"] {
+.list__item > .input[type="text"] {
     width: 226px;
 }
 
