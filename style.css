@@ -158,15 +158,15 @@
 }
 
 /* Edit Task */
-.section__list .list__item .input_text {
+.list__item .input_text {
   display: none;
 }
 
-.section__list .edit-mode .input_text {
+.edit-mode .input_text {
   display: inline-block;
   width: 224px;
 }
 
-.section__list .edit-mode .label {
+.edit-mode .label {
   display: none;
 }
